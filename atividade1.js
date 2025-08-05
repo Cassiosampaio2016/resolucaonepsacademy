@@ -1,1 +1,2 @@
-console.log('hello work')
+// Seu código vai aqui
+console.log(A+B)
